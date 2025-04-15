@@ -19,7 +19,7 @@ A modern web application that leverages Google's Gemini AI to generate dynamic R
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/beus421/dynamic-ui-generator.git]
+   git clone [repo-url](https://github.com/beus421/dynamic-ui-generator.git)
    cd dynamic-ui
    ```
 
