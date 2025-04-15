@@ -2,7 +2,7 @@
 
 A modern web application that leverages Google's Gemini AI to generate dynamic React components based on text descriptions.
 
-![Dynamic UI Generator](https://placehold.co/600x400?text=Dynamic+UI+Generator)
+![Dynamic UI Generator](https://github.com/beus421/dynamic-ui-generator/blob/main/dynamic-component.PNG)
 
 ## What does it do?
 
