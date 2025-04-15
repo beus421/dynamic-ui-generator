@@ -4,14 +4,9 @@ A modern web application that leverages Google's Gemini AI to generate dynamic R
 
 ![Dynamic UI Generator](https://placehold.co/600x400?text=Dynamic+UI+Generator)
 
-## Features
+## What does it do?
 
 - 🧠 Uses Gemini AI to generate React components from text descriptions
-- 🎨 Creates components with Tailwind CSS styling
-- 🔄 Instantly renders the generated components
-- 📱 Responsive design works on all devices
-- 🛡️ Safe rendering of dynamic content
-- 🔌 Simple API key configuration
 
 ## Quick Start
 
@@ -24,7 +19,7 @@ A modern web application that leverages Google's Gemini AI to generate dynamic R
 
 1. Clone the repository:
    ```bash
-   git clone [your-repo-url]
+   git clone https://github.com/beus421/dynamic-ui-generator.git
    cd dynamic-ui
    ```
 
